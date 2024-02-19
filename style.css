@@ -19,12 +19,12 @@ html{
     background: #21a37897;
 }
 
-div {
+.top-nav {
   display: grid;
   place-items: center
 
 }
 
-p, h1{
+.title {
   text-align: center
 }
