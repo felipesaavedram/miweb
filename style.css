@@ -1,27 +1,18 @@
+*{
+  box-sizing: border-box;
+  margin: 1;
+  padding: 1;
+}
+
 html{
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
   color: rgb(27, 49, 71);
-  background-color: #e4e4e4fa;
+  background-color: #f5f5f5fa;
 }
 
-*{
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  
-}
-
-.form-register{
-    width: 400px;
-    background: #21a37897;
-}
-
-.nav-bar {
-  background-color:burlywood
-}
 .nav-bar ul {
   list-style-type: none;
   margin: 1;
@@ -39,14 +30,24 @@ html{
 }
 
 .nav-bar a {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
 .nav-bar a:hover {
-  text-decoration: underline;
+  text-decoration:aliceblue;
 }
 
-.title {
-  text-align: center;
+.form-register{
+    width: 400px;
+    background: #21a37897;
 }
+
+.main-title {
+  margin-right:100px;
+  margin-top: 50px;
+  text-align: right;
+  font-size: large;
+}
+
+
