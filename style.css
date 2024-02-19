@@ -12,9 +12,11 @@ html{
     background: #21a37897;
 }
 
-p, h1, nav{
-  text-align: center;
+div{
   display: grid;
-  place-items: center;
+  place-items: center
+}
 
+p, h1{
+  text-align: center
 }
