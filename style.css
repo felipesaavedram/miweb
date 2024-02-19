@@ -12,6 +12,6 @@ html{
     background: #21a37897;
 }
 
-div{
+p, h1{
   text-align: center;
 }
