@@ -21,7 +21,8 @@ html{
 
 .top-nav {
   display: grid;
-  place-items: center
+  place-items: center;
+  text-align: right
 
 }
 
