@@ -19,9 +19,13 @@ html{
     background: #21a37897;
 }
 
-div, input {
+div {
   display: grid;
   place-items: center
+
+}
+
+input {
 
 }
 
