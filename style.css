@@ -19,18 +19,34 @@ html{
     background: #21a37897;
 }
 
-.nav-item {
-  display:inline;
-  border-color:black
-  
+.nav-bar {
+  background-color:burlywood
 }
-.top-nav {
-  display: grid;
-  place-items: right;
-  text-align: center;
+.nav-bar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
 
+.nav-bar li {
+  margin-right: 20px;
+}
+
+
+.nav-bar li:last-child {
+  margin-right: 0;
+}
+
+.nav-bar a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-bar a:hover {
+  text-decoration: underline;
 }
 
 .title {
-  text-align: center
+  text-align: center;
 }
