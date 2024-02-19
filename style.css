@@ -19,7 +19,7 @@ html{
     background: #21a37897;
 }
 
-div{
+div, input {
   display: grid;
   place-items: center
 
