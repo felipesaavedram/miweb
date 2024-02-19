@@ -19,6 +19,10 @@ html{
     background: #21a37897;
 }
 
+.nav-item {
+  display:inline;
+  
+}
 .top-nav {
   display: grid;
   place-items: right;
