@@ -1,1 +1,13 @@
-chanchito feliz
+html{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(27, 49, 71);
+  background-color: #e4e4e4fa;
+}
+
+.form-register{
+    width: 400px;
+    background: #21a37897;
+}
