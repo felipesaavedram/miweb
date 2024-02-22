@@ -26,19 +26,12 @@ html{
 
 
 .nav-bar a {
-  color: black;
+  color: rgb(225, 225, 225);
   text-decoration: none;
 }
 
-.card-title {
-  margin-top: 33%;
-}
-
-.card-text {
-  margin-top:3%;
-}
 .nav-bar a:hover {
-  color:rgb(174, 174, 174);
+  color:rgb(85, 85, 85);
 }
 
 /*Estilos de Títulos----------------------------------------------------------------------------*/
@@ -51,6 +44,16 @@ html{
   text-decoration: none;
 }
 
+.card-img-overlay {
+  margin: 2%;
+}
 
+.card-title {
+  margin-top: 30%;
+}
+
+.card-text {
+  margin-top:3%;
+}
 
 
