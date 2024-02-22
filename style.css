@@ -12,20 +12,17 @@ html{
 
 /*Estilos de barra de navegación----------------------------------------------------------------------------*/
 
-.nav-bar ul {
-  align-content: right;
+.nav-bar ol {
   list-style-type: none;
   margin-top: 20px;
-  display: flex;
-
 }
 
-.nav-bar li {
-  margin-right: 20px;
-
-  
+.list-inline {
+  text-align-last: right;
 }
-
+.list-inline-item{
+  margin: 15px;;
+}
 
 
 .nav-bar a {
@@ -33,6 +30,13 @@ html{
   text-decoration: none;
 }
 
+.card-title {
+  margin-top: 40%;
+}
+
+.card-text {
+  margin-top:3%;
+}
 .nav-bar a:hover {
   color:rgb(174, 174, 174);
 }
