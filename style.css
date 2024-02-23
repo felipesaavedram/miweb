@@ -14,14 +14,15 @@ html{
 
 .nav-bar ol {
   list-style-type: none;
-  margin-top: 20px;
 }
+
+
 
 .list-inline {
   text-align-last: right;
 }
 .list-inline-item{
-  margin: 15px;;
+  margin-inline-start: 20px;
 }
 
 
